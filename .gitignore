@@ -145,6 +145,8 @@ dmypy.json
 cython_debug/
 
 *.onnx
+*.pt
+.agent/
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
